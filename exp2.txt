@@ -1,2 +1,6 @@
 experiment 
+<<<<<<< HEAD
 deevops experiment
+=======
+what the hell!
+>>>>>>> origin/master
